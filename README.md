@@ -1,6 +1,9 @@
 # CommuteConnect
 
-A new Flutter project.
+CommuteConnect is a ride-sharing app for the VES Mumbai community that optimizes
+driver-rider matches through meeting points. It features real-time scheduling, secure
+communication, and enhanced social connectivity for users sharing similar routes.
+
 
 ## Getting Started
 
